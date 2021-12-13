@@ -1,0 +1,20 @@
+
+version: "3.4"
+services:
+  openethereum-xdai.dnp.dappnode.eth:
+    build:
+      context: ./build
+      args:
+        UPSTREAM_VERSION: v3.3.2
+    image: "openethereum-xdai.dnp.dappnode.eth:1.0.0"
+    restart: unless-stopped
+    volumes:
+      - "data:/root/.local/share/openethereum"
+    environment:
+      - EXTRA_OPTS=
+    ports:
+      - "30303"
+      - 30303/udp
+      - 30304/udp
+volumes:
+  data: {}
