@@ -7,12 +7,18 @@
     "shortDescritption": "OpenEthereum is the official Rust implementation of the Ethereum Protocol. This client is configured to run the xDai chain.",
     "description": "",
     "type": "service",
-    "architectures": ["linux/amd64"],
+    "architectures": [
+        "linux/amd64"
+    ],
     "chain": "ethereum",
     "dockerTimeout": "20mins",
     "author": "DAppNode Association <admin@dappnode.io> (https://github.com/dappnode)",
-    "contributors": "Alex Peterson (voss) <https://github.com/alexpeterson91",
-    "Categories": ["Blockhain"],
+    "contributors": [
+        "Alex Peterson (voss) <https://github.com/alexpeterson91"
+    ],
+    "Categories": [
+        "Blockhain"
+    ],
     "license": "GPL-3.0",
     "links": {
         "endpoint": "http://openethereum-gnosis-chain.dappnode:8545",
