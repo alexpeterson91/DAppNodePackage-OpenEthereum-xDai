@@ -1,0 +1,11 @@
+[
+    {
+        "labels": {
+            "package": "openethereum-xdai.dnp.dappnode.eth",
+            "service": "openethereum-xdai.dappnode"
+        },
+        "targets": [
+            "openethereum-xdai.dappnode:3000"
+        ]
+    }
+]
