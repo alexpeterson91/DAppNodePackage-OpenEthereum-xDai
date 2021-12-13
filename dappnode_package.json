@@ -1,5 +1,5 @@
 {
-    "name": "openethereum-xdai.dnp.dappnode.eth",
+    "name": "openethereum-gnosis-chain.dnp.dappnode.eth",
     "version": "0.1.0",
     "upstreamVersion": "v3.3.2",
     "upstreamRepo": "openethereum/openethereum",
@@ -15,14 +15,14 @@
     "Categories": ["Blockhain"],
     "license": "GPL-3.0",
     "links": {
-        "endpoint": "http://openethereum-xdai.dappnode:8545",
-        "homepage": "https://github/dappnode/DAppNodePackage-openethereum-xdai#readme"
+        "endpoint": "http://openethereum-gnosis-chain.dappnode:8545",
+        "homepage": "https://github/dappnode/DAppNodePackage-openethereum-gnosis-chain#readme"
     },
     "repository": {
         "type": "git",
-        "url": "https://github.com/dappnode/DAppNodePackage-openethereum-xdai.git"
+        "url": "https://github.com/dappnode/DAppNodePackage-openethereum-gnosis-chain.git"
     },
     "bugs": {
-        "url": "https://github.com/dappnode/DAppNodePackage-openethereum-xdai/issues"
+        "url": "https://github.com/dappnode/DAppNodePackage-openethereum-gnosis-chain/issues"
     }
 }

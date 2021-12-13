@@ -1,12 +1,12 @@
 
 version: "3.4"
 services:
-  openethereum-xdai.dnp.dappnode.eth:
+  openethereum-gnosis-chain.dnp.dappnode.eth:
     build:
       context: ./build
       args:
         UPSTREAM_VERSION: v3.3.2
-    image: "openethereum-xdai.dnp.dappnode.eth:1.0.0"
+    image: "openethereum-gnosis-chain.dnp.dappnode.eth:1.0.0"
     restart: unless-stopped
     volumes:
       - "data:/root/.local/share/openethereum"

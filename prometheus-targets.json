@@ -1,11 +1,11 @@
 [
     {
         "labels": {
-            "package": "openethereum-xdai.dnp.dappnode.eth",
-            "service": "openethereum-xdai.dappnode"
+            "package": "openethereum-gnosis-chain.dnp.dappnode.eth",
+            "service": "openethereum-gnosis-chain.dappnode"
         },
         "targets": [
-            "openethereum-xdai.dappnode:3000"
+            "openethereum-gnosis-chain.dappnode:3000"
         ]
     }
 ]

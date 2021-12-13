@@ -214,7 +214,7 @@
           "ymax": null,
           "ymin": null
         },
-        "tableColumn": "sync_status{instance=\"localhost:8545\", job=\"openethereum-xdai\"}",
+        "tableColumn": "sync_status{instance=\"localhost:8545\", job=\"openethereum-gnosis-chain\"}",
         "targets": [
           {
             "expr": "sync_status",
