@@ -14,7 +14,8 @@
     "dockerTimeout": "20mins",
     "author": "DAppNode Association <admin@dappnode.io> (https://github.com/dappnode)",
     "contributors": [
-        "Alex Peterson (voss) <https://github.com/alexpeterson91"
+        "Alex Peterson (voss) <https://github.com/alexpeterson91",
+        "Eduardo Antuña Diez <https://github.com/eduadiez"
     ],
     "Categories": [
         "Blockhain"
