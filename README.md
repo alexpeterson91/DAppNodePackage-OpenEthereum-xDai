@@ -1,9 +1,9 @@
-# DAppNodePackage-OpenEthereum-xDai
- An xDai client based on the OpenEthereum client written in Rust.
+# DAppNodePackage-OpenEthereum-Gnosis-Chain
+ A Gnosis Chain (formerly xDai) client based on the OpenEthereum client written in Rust.
 
 <!-- :female_detective: Looking for a new champion -->
 
-# DAppNode package _Openethereum_
+# DAppNode package _Openethereum-Gnosis-Chain_
 
 <!--DAppNode package logo (could be added with an hyperlink to a youtube video): -->
 
