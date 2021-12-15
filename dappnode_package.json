@@ -5,7 +5,7 @@
     "upstreamRepo": "openethereum/openethereum",
     "upstreamArg": "UPSTREAM_VERSION",
     "shortDescritption": "OpenEthereum is the official Rust implementation of the Ethereum Protocol. This client is configured to run the xDai chain.",
-    "description": "",
+    "description": "Another Gnosis Chain Execution client (formerly xDai) witten in RUST. Miners, service providers, and exchanges need fast synchronization and maximum uptime. OpenEthereum Gnosis Chain provides the core infrastructure essential for speedy and reliable services.",
     "type": "service",
     "architectures": [
         "linux/amd64"
