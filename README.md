@@ -37,3 +37,8 @@ Enough disk space to have the Gnosis Chain Execution client (formerly xDai) bloc
 |      Updated       |   Champion/s   |
 | :----------------: | :------------: |
 | :heavy_check_mark: | @alexpeterson91 |
+
+
+<!-- markdown labels -->
+
+[![Main](https://github.com/dappnode/DAppNodePackage-OpenEthereum-Gnosis-chain/actions/workflows/main.yml/badge.svg?branch=main)](https://github.com/dappnode/DAppNodePackage-OpenEthereum-Gnosis-chain/actions/workflows/main.yml)
